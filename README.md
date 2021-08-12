@@ -4,7 +4,8 @@
 
 I'm Kayhan from Turkey,and ı work on some project about .Net. I try to learn frontend technologies like React,Angular. I also enjoying do something on Wordpress and learn things.
 
-Skills: C# / REACT / JS / HTML / CSS
+##Skills and Experience
+* :atom: React
 
 - 🔭 I’m currently working on Ubit Bilgi Technologies company 
 - 🌱 I’m currently learning React.js and backend technologies 
