@@ -6,6 +6,8 @@ I'm Kayhan from Turkey,and ı work on some project about .Net. I try to learn fr
 
 ##Skills and Experience
 * :atom: React
+* 💻  HTML,CSS,JS
+
 
 - 🔭 I’m currently working on Ubit Bilgi Technologies company 
 - 🌱 I’m currently learning React.js and backend technologies 
