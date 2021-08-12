@@ -1,4 +1,4 @@
-### Hi there 👋, Kayhan KAYA
+## Kayhan KAYA
 #### Backend and Frontend Developer
 ![Backend and Frontend Developer](https://github.com/kayhannkaya/kayhannkaya/blob/main/kayhanbanner.gif)
 
