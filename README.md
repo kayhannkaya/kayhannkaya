@@ -1,6 +1,6 @@
 ### Hi there 👋, Kayhan KAYA
 #### Backend and Frontend Developer
-![Backend and Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Backend and Frontend Developer](https://github.com/kayhannkaya/kayhannkaya/blob/main/kayhanbanner.gif)
 
 I'm Kayhan from Turkey,and ı work on some project about .Net. I try to learn frontend technologies like React,Angular. I also enjoying do something on Wordpress and learn things.
 
