@@ -7,7 +7,7 @@ I'm Kayhan from Turkey,and ı work on some project about .Net. I try to learn fr
 ## Skills and Experience
 * :atom: React.js
 * 💻  HTML,CSS,JS
-* 🖥️  C# and Oop Skills
+* 🖥️  C# (Mvc,.Net) and Oop Skills
 
 
 - 🔭 I’m currently working on Ubit Bilgi Technologies company 
